@@ -72,7 +72,7 @@ different C compiler if you prefer.)
 
 To view a parse tree of a program, use grun. For example:
 
-    $ grun.sh babycino.MiniJava goal -gui progs\appel\Factorial.java
+    $ grun babycino.MiniJava goal -gui progs\appel\Factorial.java
 
 Other Scripts
 -------------
